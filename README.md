@@ -8,4 +8,4 @@ In this project, I have developed a comprehensive Single Sign-On (SSO) system th
 
 Project Overview:
 
-The SSO system enables users to log in once and gain access to multiple applications or services without needing to log in again for each one. This is achieved through the use of JWT, which ensures secure and stateless authentication. Additionally, by integrating Google OAuth2, users can log in using their Google accounts, streamlining the login process and enhancing user experience.
+The SSO system enables users to log in and gain access to multiple applications or services without needing to log in again for each one. This is achieved through the use of JWT, which ensures secure and stateless authentication. Additionally, by integrating Google OAuth2, users can log in using their Google accounts, streamlining the login process and enhancing user experience.
