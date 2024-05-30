@@ -1,0 +1,77 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.landing-page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+}
+
+.header {
+  background-color: #e21818;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  margin-top: 4em;
+}
+
+.title {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.content {
+  flex: 1;
+  padding: 40px 20px;
+}
+
+.intro, .advantages {
+  margin-bottom: 40px;
+}
+
+.section-title {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.section-content {
+  font-size: 1.1em;
+  color: #555;
+  line-height: 1.6;
+}
+
+.advantages-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.advantage-item {
+  background-color: #e9ecef;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.advantage-item strong {
+  color: #ff1e00;
+}
+
+.footer {
+  background-color: #b4b6b8;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.footer-content {
+  margin: 0;
+  font-size: 0.9em;
+}
